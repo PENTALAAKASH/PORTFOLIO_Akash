@@ -27,7 +27,7 @@ portfolio/
 
 ## 🔗 Live Demo
 The portfolio is hosted via GitHub Pages:  
-[View Live Portfolio](https://YourUsername.github.io/portfolio/)
+[View Live Portfolio]( https://pentalaakash.github.io/PORTFOLIO_Akash/)
 # Pentala Akash Portfolio
 
 Welcome to my personal portfolio! This website showcases my **skills, projects, and experience** as a Computer Science and Engineering student with a focus on **AI, Data Science, Cloud Computing, and Web Development**.
